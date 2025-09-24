@@ -1,4 +1,4 @@
-# Urban Heat Island (UHI) Project
+# UrbanHeatInfo: An Urban Heat Island (UHI) Project
 According to [National Geographic](https://education.nationalgeographic.org/resource/urban-heat-island/), an urban heat island (UHI) is an area that experiences higher temperatures than its surrounding regions. This phenomenon is especially noticeable in large metropolitan cities and regions such as New York, London, or Hong Kong. Even at night, these areas remain hotter due to the concentration of people, energy use, infrastructure, and transportation systems.
 
 Urban areas are typically densely populated and heavily built-up. Skyscrapers and other tall structures are designed to maximise space, but they also trap heat, limiting air circulation. Combined with concrete, asphalt, and other heat-retaining materials, these factors cause cities to warm faster and stay hotter for longer.
@@ -23,5 +23,5 @@ This project goes beyond mapping surface temperatures - it highlights how urban 
     * Cooler urban areas reduce air conditioning demand, lowering peak electricity usage and associated greenhouse gas emissions.
 
 ## Future Update Ideas
-* Multi-City
-    * I am currently focusing on a single city for now. 
+* Multi-City Selection
+    * I am currently focusing on a single city for now. However, I am planning to further expand the project so that users can select multiple cities in the future.
